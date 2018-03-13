@@ -2,13 +2,13 @@
 	"headerText": "אפליקציית מאבו",
 	"List": [
 		{
-			"mylist": "..."
-		},
-		{
 			"mylist": "עוד שם נחמד"
 		},
 		{
 			"mylist": "פריט שני ונוסף"
+		},
+		{
+			"mylist": "דימיטרי צ'רניאק"
 		}
 	],
 	"avatar": "https://cdn.rawgit.com/seffyfisher/mavoStorage/c41f6926532831adaa280ac4480427cd21c7ff4c/images/unnamed.png"
